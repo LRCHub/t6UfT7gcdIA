@@ -1,16 +1,48 @@
 {
   "version": 1,
-  "base_track": "好きだけじゃ足りなくて",
-  "base_artist": "ゴールデンボンバー",
-  "createdAt": "2025-12-21T19:41:48.442986Z",
+  "base_track": "憂鬱",
+  "base_artist": "TOOBOE",
+  "createdAt": "2025-12-21T19:41:59.270018Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "憂鬱,你好!",
+      "artist": "Priscilla Chan",
+      "has_synced": false,
+      "path": "select/01_憂鬱,你好!_Priscilla_Chan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "憂鬱, 你好",
+      "artist": "陳慧嫻",
+      "has_synced": false,
+      "path": "select/02_憂鬱,_你好_陳慧嫻.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "憂鬱，你好！",
+      "artist": "陳慧嫻",
+      "has_synced": false,
+      "path": "select/03_憂鬱,你好!_陳慧嫻.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "憂鬱，你好",
+      "artist": "陳慧嫻",
+      "has_synced": false,
+      "path": "select/04_憂鬱,你好_陳慧嫻.txt"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "好きだけじゃ足りなくて",
-      "artist": "ゴールデンボンバー",
+      "title": "憂鬱",
+      "artist": "TOOBOE",
       "has_synced": false,
-      "path": "select/pl_01_好きだけじゃ足りなくて_ゴールデンボンバー.txt"
+      "path": "select/pl_01_憂鬱_TOOBOE.txt"
     }
   ]
 }
